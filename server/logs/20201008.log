@@ -1,0 +1,16 @@
+20201008:145803.782: LOG: ************ STARTING Express Application(server.js)**************
+20201008:145804.876: LOG: ** Creating DB Connection Pool : {"host":"34.93.5.35","port":"3307","database":"alpine","user":"bhupendra","password":"bhupendra@123","dateStrings":true,"connectionLimit":"5"}
+20201008:145805.752: LOG: ** Integrating CORS Middleware in Application
+20201008:145805.768: LOG: ** Integrating Logging Middleware in Application
+20201008:145805.780: LOG: ** Integrating Authentication Middleware in Application
+20201008:145805.784: LOG: ** Integrating All Routes in Application
+20201008:145805.798: LOG: ** All Modules Integration Done
+20201008:145805.819: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
+20201008:150510.738: LOG: ************ STARTING Express Application(server.js)**************
+20201008:150511.472: LOG: ** Creating DB Connection Pool : {"host":"34.93.5.35","port":"3307","database":"alpine","user":"sc","password":"Shamli@1234","dateStrings":true,"connectionLimit":"5"}
+20201008:150511.924: LOG: ** Integrating CORS Middleware in Application
+20201008:150512.0002: LOG: ** Integrating Logging Middleware in Application
+20201008:150512.085: LOG: ** Integrating Authentication Middleware in Application
+20201008:150512.146: LOG: ** Integrating All Routes in Application
+20201008:150512.163: LOG: ** All Modules Integration Done
+20201008:150512.200: LOG: ** Express Server Started : {"address":"::","family":"IPv6","port":3000}
