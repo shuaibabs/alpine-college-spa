@@ -6,7 +6,7 @@ nodejs and express in Back End
 Database used: MySql
 
 NOTE: 
-DataBase Credentials can Only use My Group Members and Contributers
+DataBase Credentials is Not Available  for Security Purposes
 
 ## Build Setup for server
 
